@@ -1,7 +1,7 @@
 
   export default [
     {
-      to: '/dashboard',
+      to: '/',
       label: 'Dashboard'
     },
   
